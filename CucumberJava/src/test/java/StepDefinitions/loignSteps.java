@@ -11,6 +11,7 @@ public class loignSteps {
 	public void test()
 	{
 		actions.action();
+		System.out.println("done");
 	}
 	
 	@Then("^welcome text$")

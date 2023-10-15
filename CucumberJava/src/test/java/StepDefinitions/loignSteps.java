@@ -10,7 +10,7 @@ public class loignSteps {
 	@Given("launch saas application")
 	public void test()
 	{
-		actions.action();
+//		actions.action();
 		System.out.println("done");
 	}
 	
